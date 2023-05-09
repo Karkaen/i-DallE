@@ -10,9 +10,9 @@ const router = express.Router();
 
 // Configuration 
 cloudinary.config({
-  cloud_name: "daltu8yul",
-  api_key: "161772451498443",
-  api_secret: "Y0ah1H68y23WPCWVaqZ62dClDA8"
+  cloud_name: "key",
+  api_key: "key",
+  api_secret: "key"
 });
 
 
